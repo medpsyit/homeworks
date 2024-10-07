@@ -18,3 +18,6 @@
 - [Задание 1](https://github.com/medpsyit/homeworks/tree/main/5/Homework%205_1/Homework%205_1)
 - [Задание 2](https://github.com/medpsyit/homeworks/tree/main/5/Homework%205_2/Homework%205_2)
 - [Задание 3](https://github.com/medpsyit/homeworks/tree/main/5/Homework%205_3/Homework%205_3)
+## [Урок 6](6):
+- [Задание 1](https://github.com/medpsyit/homeworks/blob/main/6/Homework%206_1/Homework%206_1/Homework%206_1.cpp)
+- [Задание 2](https://github.com/medpsyit/homeworks/blob/main/6/Homework%206_2/Homework%206_2/Homework%206_2.cpp)
