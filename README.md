@@ -27,3 +27,6 @@
 ## [Урок 8](8):
 - [Задание 1](https://github.com/medpsyit/homeworks/blob/main/8/Homework%208_1/Homework%208_1/Homework%208_1.cpp)
 - [Задание 2](https://github.com/medpsyit/homeworks/blob/main/8/Homework%208_2/Homework%208_2/Homework%208_2.cpp)
+## [Урок 9](9):
+- [Задание 1](https://github.com/medpsyit/homeworks/tree/main/9/Homework%209_1)
+- [Задание 2](https://github.com/medpsyit/homeworks/tree/main/9/Homework%209_2)
