@@ -1,5 +1,5 @@
 # ninja log v5
 1	571	7506981133462872	CMakeFiles/figures.dir/main.cpp.obj	fd713dd289ff24e2
 1	272	7506982388067170	CMakeFiles/figures.dir/figure.cpp.obj	a167b5343e2e61de
-9	279	7506982388137167	CMakeFiles/figures.dir/info.cpp.obj	6c15025b957bf4ca
 279	560	7506982390827167	figures.exe	7bd9cbc1eac59df5
+9	279	7506982388137167	CMakeFiles/figures.dir/info.cpp.obj	6c15025b957bf4ca
