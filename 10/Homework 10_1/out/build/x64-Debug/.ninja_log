@@ -1,0 +1,6 @@
+# ninja log v5
+13	712	7520833415029140	build.ninja	c0deede827aa31fd
+14	52	7520806473168361	lib/greet_lib.lib	1676f23af56ebaf3
+53	672	7520805404366795	lib/CMakeFiles/greet_lib.dir/src/lib.cpp.obj	f4fda50bc235be6d
+2	461	7520810585576480	exe/CMakeFiles/exe.dir/main.cpp.obj	2afe53a524fa2164
+461	607	7520810586739794	exe/exe.exe	19b1ef01efb5d472

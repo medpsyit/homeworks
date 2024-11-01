@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "exe",
+					"jsonFile" : "directory-exe-Debug-36de7be57d8b09d01841.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "exe",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "dylib",
+					"jsonFile" : "directory-dylib-Debug-436a412abd30c8cf1369.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "dylib",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "leave",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "exe::@1adb794e6196958d9c49",
+					"jsonFile" : "target-exe-Debug-52737f554cdde1bede19.json",
+					"name" : "exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "leave_lib::@d20fa3a5fccc7467d582",
+					"jsonFile" : "target-leave_lib-Debug-effbf6829a032f845712.json",
+					"name" : "leave_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gggmi_c2wvhqe/Desktop/lessions c++/3 \u0411\u0430\u0437\u043e\u0432\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435/Homework/10/Homework 10_3/out/build/x64-Debug",
+		"source" : "C:/Users/gggmi_c2wvhqe/Desktop/lessions c++/3 \u0411\u0430\u0437\u043e\u0432\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435/Homework/10/Homework 10_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

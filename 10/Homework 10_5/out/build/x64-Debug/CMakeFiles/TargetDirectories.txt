@@ -1,0 +1,8 @@
+C:/Users/gggmi_c2wvhqe/Desktop/lessions c++/3 Базовое программирование/Homework/10/Homework 10_5/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/gggmi_c2wvhqe/Desktop/lessions c++/3 Базовое программирование/Homework/10/Homework 10_5/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gggmi_c2wvhqe/Desktop/lessions c++/3 Базовое программирование/Homework/10/Homework 10_5/out/build/x64-Debug/exe/CMakeFiles/exe.dir
+C:/Users/gggmi_c2wvhqe/Desktop/lessions c++/3 Базовое программирование/Homework/10/Homework 10_5/out/build/x64-Debug/exe/CMakeFiles/edit_cache.dir
+C:/Users/gggmi_c2wvhqe/Desktop/lessions c++/3 Базовое программирование/Homework/10/Homework 10_5/out/build/x64-Debug/exe/CMakeFiles/rebuild_cache.dir
+C:/Users/gggmi_c2wvhqe/Desktop/lessions c++/3 Базовое программирование/Homework/10/Homework 10_5/out/build/x64-Debug/figuresLib/CMakeFiles/figures_lib.dir
+C:/Users/gggmi_c2wvhqe/Desktop/lessions c++/3 Базовое программирование/Homework/10/Homework 10_5/out/build/x64-Debug/figuresLib/CMakeFiles/edit_cache.dir
+C:/Users/gggmi_c2wvhqe/Desktop/lessions c++/3 Базовое программирование/Homework/10/Homework 10_5/out/build/x64-Debug/figuresLib/CMakeFiles/rebuild_cache.dir

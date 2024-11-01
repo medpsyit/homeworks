@@ -1,0 +1,6 @@
+# ninja log v5
+9	151	7521667576515552	dylib/CMakeFiles/leave_lib.dir/src/dylib.cpp.obj	81533ea932f00e78
+153	360	7521667578495555	dylib/leave_lib.lib	961af72afd71910
+153	360	7521667578495555	dylib/leave_lib.dll	961af72afd71910
+2	455	7521667579537344	exe/CMakeFiles/exe.dir/main.cpp.obj	20621692ae165dba
+455	667	7521667581560935	exe/exe.exe	f006fd582f4b98a0
