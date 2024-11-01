@@ -30,3 +30,9 @@
 ## [Урок 9](9):
 - [Задание 1](https://github.com/medpsyit/homeworks/tree/main/9/Homework%209_1)
 - [Задание 2](https://github.com/medpsyit/homeworks/tree/main/9/Homework%209_2)
+## [Урок 10](10):
+- [Задание 1](https://github.com/medpsyit/homeworks/tree/main/10/Homework%2010_1)
+- [Задание 2](https://github.com/medpsyit/homeworks/tree/main/10/Homework%2010_2)
+- [Задание 3](https://github.com/medpsyit/homeworks/tree/main/10/Homework%2010_3)
+- [Задание 4](https://github.com/medpsyit/homeworks/tree/main/10/Homework%2010_4)
+- [Задание 5](https://github.com/medpsyit/homeworks/tree/main/10/Homework%2010_5)
