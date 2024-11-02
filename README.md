@@ -36,3 +36,4 @@
 - [Задание 3](https://github.com/medpsyit/homeworks/tree/main/10/Homework%2010_3)
 - [Задание 4](https://github.com/medpsyit/homeworks/tree/main/10/Homework%2010_4)
 - [Задание 5](https://github.com/medpsyit/homeworks/tree/main/10/Homework%2010_5)
+## [Курсовой проект](DiplomaProject)
