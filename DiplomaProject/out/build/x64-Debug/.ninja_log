@@ -1,0 +1,23 @@
+# ninja log v5
+1	355	7522696009110249	game/CMakeFiles/game.dir/main.cpp.obj	8f79c04ff83aaa9a
+24	338	7522696654572827	raceLib/CMakeFiles/race_lib.dir/src/vehicle.cpp.obj	d0a69ae883aacd25
+38	339	7522696654592829	raceLib/CMakeFiles/race_lib.dir/src/air.cpp.obj	6c559c778ba0040a
+9	343	7522696654642845	game/CMakeFiles/game.dir/main.cpp.obj	8f79c04ff83aaa9a
+31	347	7522696654682863	raceLib/CMakeFiles/race_lib.dir/src/ground.cpp.obj	f8483177bf0c9798
+46	358	7522696654792861	raceLib/CMakeFiles/race_lib.dir/src/interface.cpp.obj	a0661d0319ad8768
+9	254	7522696908781752	raceLib/CMakeFiles/race_lib.dir/src/race.cpp.obj	258d1a9ed9b66ac5
+255	521	7522696911331751	raceLib/race_lib.dll	2d085966cf391343
+255	521	7522696911331751	raceLib/race_lib.lib	2d085966cf391343
+37	309	7522697317561567	raceLib/CMakeFiles/race_lib.dir/src/air.cpp.obj	6c559c778ba0040a
+27	311	7522697317591571	raceLib/CMakeFiles/race_lib.dir/src/ground.cpp.obj	f8483177bf0c9798
+19	314	7522697317621568	raceLib/CMakeFiles/race_lib.dir/src/vehicle.cpp.obj	d0a69ae883aacd25
+46	328	7522697317761571	raceLib/CMakeFiles/race_lib.dir/src/interface.cpp.obj	a0661d0319ad8768
+10	350	7522697317791570	game/CMakeFiles/game.dir/main.cpp.obj	8f79c04ff83aaa9a
+328	504	7522697319248017	raceLib/race_lib.dll	2d085966cf391343
+328	504	7522697319248017	raceLib/race_lib.lib	2d085966cf391343
+24	294	7522697967716746	raceLib/CMakeFiles/race_lib.dir/src/ground.cpp.obj	f8483177bf0c9798
+34	301	7522697967796742	raceLib/CMakeFiles/race_lib.dir/src/air.cpp.obj	6c559c778ba0040a
+10	321	7522697967816743	game/CMakeFiles/game.dir/main.cpp.obj	8f79c04ff83aaa9a
+301	483	7522697969279788	raceLib/race_lib.dll	2d085966cf391343
+301	483	7522697969279788	raceLib/race_lib.lib	2d085966cf391343
+484	752	7522697972072174	game/game.exe	1612d132a924da43

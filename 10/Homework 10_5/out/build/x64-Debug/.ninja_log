@@ -1,5 +1,5 @@
 # ninja log v5
-2	168	7521710623625228	build.ninja	94b9b520b307a472
+2	168	7522667631494528	build.ninja	94b9b520b307a472
 19	280	7521705515073051	figuresLib/CMakeFiles/figures_lib.dir/src/figure.cpp.obj	426e1efb7609143e
 9	249	7521710178533359	figuresLib/CMakeFiles/figures_lib.dir/src/info.cpp.obj	a1885a4d3d051c4e
 9	245	7521710334617012	exe/CMakeFiles/exe.dir/main.cpp.obj	b7ae0a835fe4ef78
